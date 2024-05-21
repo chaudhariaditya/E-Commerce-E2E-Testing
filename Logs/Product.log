@@ -1,0 +1,41 @@
+2024-05-19 18:35:57,957 : INFO : Test_Product : test_title01 : 11 : TestCase test_titel01 Started 
+2024-05-19 18:36:01,818 : INFO : Test_Product : test_title01 : 18 : TestCase test_titel01 Pass 
+2024-05-19 18:36:16,138 : INFO : Test_Product : test_addproduct : 29 : Men option clicked
+2024-05-19 18:38:41,829 : INFO : Test_Product : test_title01 : 11 : TestCase test_titel01 Started 
+2024-05-19 18:38:45,828 : INFO : Test_Product : test_title01 : 18 : TestCase test_titel01 Pass 
+2024-05-19 18:39:09,418 : INFO : Test_Product : test_addproduct : 29 : Men option clicked
+2024-05-19 18:41:45,566 : INFO : Test_Product : test_title01 : 11 : TestCase test_titel01 Started 
+2024-05-19 18:41:49,510 : INFO : Test_Product : test_title01 : 18 : TestCase test_titel01 Pass 
+2024-05-19 18:42:04,626 : INFO : Test_Product : test_addproduct : 29 : Men option clicked
+2024-05-19 18:42:17,220 : INFO : Test_Product : test_addproduct : 32 : option selected
+2024-05-19 18:44:22,222 : INFO : Test_Product : test_title01 : 11 : TestCase test_titel01 Started 
+2024-05-19 18:44:26,181 : INFO : Test_Product : test_title01 : 18 : TestCase test_titel01 Pass 
+2024-05-19 18:44:47,265 : INFO : Test_Product : test_addproduct : 29 : Men option clicked
+2024-05-19 18:44:59,857 : INFO : Test_Product : test_addproduct : 32 : option selected
+2024-05-19 18:48:04,285 : INFO : Test_Product : test_title01 : 11 : TestCase test_titel01 Started 
+2024-05-19 18:48:08,080 : INFO : Test_Product : test_title01 : 18 : TestCase test_titel01 Pass 
+2024-05-19 18:48:08,273 : INFO : Test_Product : test_addproduct : 29 : Men option clicked
+2024-05-19 18:48:21,189 : INFO : Test_Product : test_addproduct : 32 : option selected
+2024-05-19 18:48:25,125 : INFO : Test_Product : test_addproduct : 34 : Home page 
+2024-05-19 18:48:29,925 : INFO : Test_Product : test_addproduct : 36 : Women Option Clicked
+2024-05-19 18:49:25,651 : INFO : Test_Product : test_title01 : 11 : TestCase test_titel01 Started 
+2024-05-19 18:49:29,486 : INFO : Test_Product : test_title01 : 18 : TestCase test_titel01 Pass 
+2024-05-19 18:49:54,137 : INFO : Test_Product : test_addproduct : 29 : Men option clicked
+2024-05-19 18:50:06,838 : INFO : Test_Product : test_addproduct : 32 : option selected
+2024-05-19 18:50:10,032 : INFO : Test_Product : test_addproduct : 34 : Home page 
+2024-05-19 18:50:14,152 : INFO : Test_Product : test_addproduct : 36 : Women Option Clicked
+2024-05-20 18:55:09,410 : INFO : Test_Product : test_title01 : 11 : TestCase test_titel01 Started 
+2024-05-20 18:55:13,078 : INFO : Test_Product : test_title01 : 18 : TestCase test_titel01 Pass 
+2024-05-20 18:55:32,201 : INFO : Test_Product : test_addproduct : 29 : Men option clicked
+2024-05-20 18:55:44,401 : INFO : Test_Product : test_addproduct : 32 : option selected
+2024-05-20 18:55:46,977 : INFO : Test_Product : test_addproduct : 34 : Home page 
+2024-05-20 18:55:50,210 : INFO : Test_Product : test_addproduct : 36 : Women Option Clicked
+2024-05-20 20:45:13,215 : INFO : Test_Product : test_title01 : 11 : TestCase test_titel01 Started 
+2024-05-20 20:45:17,332 : INFO : Test_Product : test_title01 : 18 : TestCase test_titel01 Pass 
+2024-05-20 20:45:20,086 : INFO : Test_Product : test_addproduct : 29 : Men option clicked
+2024-05-20 20:46:22,601 : INFO : Test_Product : test_title01 : 11 : TestCase test_titel01 Started 
+2024-05-20 20:46:26,881 : INFO : Test_Product : test_title01 : 18 : TestCase test_titel01 Pass 
+2024-05-20 20:46:30,255 : INFO : Test_Product : test_addproduct : 29 : Men option clicked
+2024-05-20 20:46:42,899 : INFO : Test_Product : test_addproduct : 32 : option selected
+2024-05-20 20:46:46,104 : INFO : Test_Product : test_addproduct : 34 : Home page 
+2024-05-20 20:46:50,158 : INFO : Test_Product : test_addproduct : 36 : Women Option Clicked
